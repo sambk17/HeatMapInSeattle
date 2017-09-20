@@ -3,3 +3,6 @@ I want to trace my paths in Seattle over the past 2 years (moved back to Seattle
 
 Credit for this mini-project goes to Emery Wolf
 URL Location: https://emerywolf.wordpress.com/2017/09/20/using-google-timeline-data-to-create-location-heatmaps/
+
+Emery Wolf credited Rob Chavez so I'm crediting them here as well
+URL Location: https://rpubs.com/robchavez/60451
